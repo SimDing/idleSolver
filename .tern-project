@@ -1,0 +1,12 @@
+{
+  "libs": [
+    "ecmascript"
+  ],
+  "plugins": {
+    "node": {},
+    "es-modules": {},
+    "complete_strings": {
+      "maxLength": 40  
+    }
+  }
+}
